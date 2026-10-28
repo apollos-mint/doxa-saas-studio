@@ -78,7 +78,7 @@ flowchart TD
 
 ### 1. Clone & Install Dependencies
 ```bash
-git clone https://github.com/desousaejai/doxa-saas-studio.git
+git clone https://github.com/apollos-mint/doxa-saas-studio.git
 cd doxa-saas-studio
 npm install
 ```
